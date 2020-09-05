@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Document</title>
+</head>
+<body>
+	<h1>Divesh Watwani</h1>
+	<p>Computer Engg.</p>
+	<h3>Work Experice</h3>
+	<table>
+	<tr>
+		<td>2007-2017</td>
+		<td>SSC From Holy Family Convent High Scholl</td>
+	</tr>
+	<tr>
+		<td>2017-2020</td>
+		<td>Diploma in Computer Engineering from VESP</td>
+	</tr>
+	<tr>
+		<td>Summer of 2019</td>
+		<td>Internship at MMRDA,BKC Mumbai.</td>
+	</tr>
+	<tr>
+		<td>2020-2023</td>
+		<td>Degree in Computer Engineering from VESIT </td>
+	</tr>
+	</table>
+</body>
+</html>
