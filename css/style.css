@@ -1,0 +1,35 @@
+
+body{
+    /*background-color :#f0ffffda;*/
+    background-color :#e0f2ff;
+    color:#293462 ;
+    font-family: Exo;
+}
+em{
+    /*color: #ecfffb;*/
+    color:#145374 ;
+}
+
+hr{
+    
+    color:#4d2500;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 3px;
+    height:1px;
+    width: 100%;
+    
+    
+    /*width: 3%;
+    border-width: 5px;
+    border-top-style: dotted;*/
+}
+h2{
+    /*color: #145374;*/
+    /*color:#4ecca3;*/
+    font-family:Kite One;
+    color: #fd8a26;
+}
+a{
+    color: royalblue;
+}
